@@ -1,0 +1,3308 @@
+@media (min-width:320px) and (max-width:499px){
+
+/* ------------------------
+      Common Css Start
+-----------------------------*/
+
+.title h1 {
+	font-size: 30px;
+	margin-bottom: 15px;
+}
+
+.title p {
+	font-size: 15px;
+	line-height: 25px;
+	width: auto;
+}
+
+
+    /* ------------------------
+      Common Css End
+-----------------------------*/
+
+/* ------------------------
+      Nav Part Start
+-----------------------------*/
+    .navbar{
+        padding: 0 0px;
+        background: #FFFFFF;
+    }
+
+    nav .navbar-brand {
+        font-size: 17px;
+        margin-top: 10px;
+    }
+
+    .navbar-light .navbar-toggler {
+        color: rgba(0,0,0,.55);
+        border-color: #fff !important;
+        margin-top: 10px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow:none;
+    }
+
+    nav ul{
+        text-align: center;
+    }
+
+    nav .navbar-nav .nav-item .nav-link:hover::after{
+        opacity: 0;
+    }
+
+    nav .navbar-nav .nav-item .nav-link.active {
+        font-size: 16px;
+    }
+
+    nav .navbar-nav .nav-item .nav-link {
+        font-size: 16px;
+        margin-right: 0px;
+        margin-top: 0px;
+    }
+
+    /* ------------------------
+      Nav Part end
+-----------------------------*/
+
+
+ /* ------------------------
+      Banner Part Start
+-----------------------------*/
+
+#banner-part .reverse {
+	flex-direction: column-reverse !important;
+}
+
+#banner-part {
+	margin-top: 50px;
+	margin-bottom: 60px;
+}
+
+#banner-part .details h1 {
+	font-size: 30px;
+	line-height: 42.8px;
+	width: auto;
+	letter-spacing: -1px;
+    margin-top: 75px;
+    padding-right: 135px;
+}
+
+#banner-part .details p {
+	font-size: 15px;
+	line-height: 27px;
+	margin-top: 30px;
+	width: auto;
+}
+
+#banner-part .details .btn {
+	margin-top: 10px;
+}
+
+#banner-part .details .btn .res-button{
+    width: 50%;
+}
+
+.common-button {
+    width: 120px;
+    height: 35px;
+    border-radius: 27px 5px;
+    font-size: 14px; 
+}
+
+.button {
+width: 120px;
+height: 35px;
+border-radius: 27px 5px;
+font-size: 14px; 
+}
+
+#banner-part .details .counter-part .item {
+	margin-top: 50px;
+}
+
+#banner-part .details .counter-part .item h3 {
+	font-size: 25px;
+    margin-bottom: 0px;
+}
+
+#banner-part .details .counter-part .item span {
+	font-size: 25px;
+}
+
+#banner-part .details .counter-part .item p {
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	color: #6B6B6B;
+	line-height: 26px;
+	width: 100%;
+	margin-top: 10px;
+}
+
+#banner-part .details .counter-part .item img {
+	top: -11px;
+	left: 147px;
+	width: 8%;
+}
+
+#banner-part .details .counter-part .item .thard-img {
+	top: -12px;
+	left: 151px;
+	width: 8%;
+}
+
+
+#banner-part .details .counter-part .img img{
+	top: -42px;
+	left: -7px;
+	width: 100%;
+    display: none;
+}
+
+#banner-part .img-part img {
+	border-radius: 10px 10px 10px 150px;
+	width: 100%;
+    margin-top: 20px;
+}
+
+#banner-part .img-part .top-shape {
+	display: none;
+}
+
+#banner-part .img-part .bottom-shape {
+	width: 162px;
+	height: 70px;
+	opacity: 40%;
+	bottom: -46px;
+	right: 16px;
+}
+
+ /* ------------------------
+      Banner Part end
+-----------------------------*/
+
+/* ------------------------
+      Brand Part Start
+-----------------------------*/
+
+#brand-part .sub-brand {
+	width: auto;
+	background: #FAFAFA;
+	border-radius: 150px;
+    padding: 0 5px;
+}
+
+#brand-part .sub-brand .item {
+	/* padding: 12px 31px; */
+    padding: 12px 24px;
+}
+
+#brand-part .sub-brand .item img {
+	width: 90%;
+}
+
+#brand-part .sub-brand .item img {
+	margin-top: 12px;
+}
+
+/* ------------------------
+      Brand Part end
+-----------------------------*/
+
+
+/* ------------------------
+    Construction Part Start
+-----------------------------*/
+
+#construction-part {
+	margin-top: 50px;
+}
+
+#construction-part .left-part p {
+	font-size: 15px;
+	margin-bottom: 25px;
+	margin-top: 0px;
+	width: auto;
+}
+
+#construction-part .left-part .img img {
+	border-radius: 10px 200px 10px 10px;
+	margin-top: 50px;
+	width: 100%;
+}
+
+#construction-part .right-part h2 {
+	font-size: 30px;
+	line-height: 40.8px;
+	width: auto;
+	margin-bottom: 50px;
+	margin-top: 50px;
+    padding-right: 100px;
+}
+
+#construction-part .right-part .item {
+    padding-bottom: 25px;
+	margin-left: 0px;
+}
+
+#construction-part .right-part .item .number {
+	width: 15%;
+	height: 50px;
+	margin: 0 auto;
+}
+
+
+#construction-part .right-part .item .number img {
+	width: 100%;
+	margin-right: 20px;
+}
+
+#construction-part .right-part .item .number h1 {
+	font-size: 40px;
+	top: -17px;
+	left: 34px;
+}
+
+#construction-part .right-part .item .text p {
+	font-size: 14px;
+	width: auto;
+	margin-top: 15px;
+    line-height: 25px;
+    padding: 0 8px;
+}
+
+/* ------------------------
+     Construction Part end
+-----------------------------*/
+
+
+/* ------------------------
+     Engineers Part Start
+-----------------------------*/
+#engineers-part {
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+
+
+
+#engineers-part .slider-item .item {
+	padding-bottom: 30px;
+	margin: 35px 20px 80px 20px;
+}
+
+#engineers-part .slider-item .item .icon-part .star {
+	margin: 15px 0 0 30px;
+}
+
+#engineers-part .slider-item .item .icon-part i {
+	margin: 15px 30px 0 0;
+}
+
+#engineers-part .slider-item .item .img {
+	margin-top: 13px;
+	margin-bottom: 15px;
+}
+
+#engineers-part .slider-item .item .details h3 {
+	font-size: 23px;
+	margin-bottom: 0px;
+}
+
+#engineers-part .slider-item .item .details h5 {
+
+	margin-bottom: 30px;
+}
+
+#engineers-part .slider-item .item .details span {
+	font-size: 16px;
+}
+
+#engineers-part .slider-item .item .details h4 {
+	font-size: 16px;
+	margin-top: 4px;
+}
+
+#engineers-part .icon-button {
+	width: 105px;
+	height: 50px;
+	bottom: 39px;
+	z-index: 1;
+    margin-top: 0px;
+}
+
+#engineers-part .next {
+	bottom: -3px;
+	left: 54%;
+	width: 35px;
+	height: 35px;
+	line-height: 35px;
+    z-index: 2;
+}
+
+#engineers-part .prev {
+	width: 35px;
+height: 35px;
+line-height: 35px;
+bottom: -3px;
+left: 44%;
+z-index: 2;
+}
+
+/* ------------------------
+     Engineers Part end
+-----------------------------*/
+
+
+/* ------------------------
+     Message Part Start
+-----------------------------*/
+
+#message-part {
+	margin-bottom: 50px;
+	padding-bottom: 85px;
+}
+
+#message-part .details-part h1 {
+	font-size: 30px;
+    margin-top: -135px;
+}
+
+#message-part .details-part p {
+	font-size: 15px;
+	line-height: 27px;
+	width: auto;
+	padding: 0 26px;
+}
+
+#message-part .details-part .top-img {
+	top: 112px;
+	left: -6px;
+	width: 9%;
+}
+
+#message-part .details-part .bottom-img {
+	bottom: -7px;
+	right: 19px;
+	width: 9%;
+}
+
+/* ------------------------
+     Message Part end
+-----------------------------*/
+
+/* ------------------------
+     Contact Part Start
+-----------------------------*/
+#contact-part {
+	margin-bottom: 50px;
+}
+
+#contact-part .form-part input {
+	height: 40px;
+	width: 100%;
+}
+
+#contact-part .form-part {
+	margin-top: 35px;
+}
+
+#contact-part .form-part .name-form ::placeholder{
+    font-size: 15px;
+}
+
+#contact-part .form-part .email-form ::placeholder{
+    font-size: 15px;
+}
+
+#contact-part .form-part .subject-form ::placeholder{
+    font-size: 15px;
+}
+
+#contact-part .form-part .massage-form {
+	width: 100%;
+	height: 85px;
+	border-radius: 4px;
+}
+
+#contact-part .form-part .massage-form ::placeholder{
+    font-size: 15px;
+}
+
+#contact-part .common-button{
+    margin: 0 auto;
+    width: 135px;
+}
+
+#contact-part .img-part {
+	margin-top: 60px;
+}
+
+
+#contact-part .img-part img {
+	width: 100%;
+}
+
+/* ------------------------
+     Contact Part end
+-----------------------------*/
+
+/* ------------------------
+     Blogs Part Start
+-----------------------------*/
+
+#blogs-part {
+	margin-bottom: 50px;
+}
+
+#blogs-part .scroll-bar {
+	padding: 0px;
+	margin-top: 20px;
+    height: 551px;
+}
+
+#blogs-part .left-img{
+    padding: 0 10px;
+}
+
+#blogs-part .left-img img {
+	width: 100%;
+}
+
+#blogs-part .left-img .details {
+	left: 19%;
+}
+
+#blogs-part .left-img .details h4 {
+	font-size: 20px;
+}
+
+#blogs-part .left-img .details p {
+	font-size: 14px;
+	margin-bottom: 32px;
+}
+
+#blogs-part .left-img .details .button {
+	width: 135px;
+	height: 40px;
+	font-size: 14px;
+}
+
+#blogs-part .right-img{
+    padding: 0 10px;
+}
+
+#blogs-part .right-img img {
+	width: 100%;
+}
+
+#blogs-part .right-img .details {
+	left: 19%;
+}
+
+#blogs-part .right-img .details h4 {
+	font-size: 20px;
+}
+
+#blogs-part .right-img .details p {
+	font-size: 14px;
+	margin-bottom: 32px;
+}
+
+#blogs-part .right-img .details .button {
+	width: 135px;
+	height: 40px;
+	font-size: 14px;
+}
+
+#ascrail2000-hr{
+   
+    display: none !important;
+}
+
+/* ------------------------
+     Blogs Part end
+-----------------------------*/
+
+/* ------------------------
+     Newsletter Part Start
+-----------------------------*/
+
+#newsletter-part {
+	margin-bottom: 70px;
+}
+
+#newsletter-part .title h1 {
+	font-size: 30px;
+    line-height: 37px;
+	width: auto;
+	margin-bottom: 20px !important;
+}
+
+#newsletter-part .title p {
+	width: auto;
+}
+
+#newsletter-part .common-button {
+	margin-top: 30px !important;
+}
+
+#newsletter-part .common-button i {
+	margin-left: 7px;
+}
+
+/* ------------------------
+     Newsletter Part end
+-----------------------------*/
+
+
+/* ------------------------
+     Footer Part Start
+-----------------------------*/
+
+#footer-part {
+	margin-bottom: 80px;
+}
+
+#footer-part .item{
+    text-align: center;
+}
+
+#footer-part .item h1 {
+	font-size: 17px;
+	margin-bottom: 4px;
+}
+
+#footer-part .item p {
+	font-size: 15px;
+	line-height: 23px;
+	margin-bottom: 20px;
+    width: auto;
+    padding: 0 84px;
+}
+
+#footer-part .item .icon{
+    margin-bottom: 20px;
+}
+
+#footer-part .item .details h3 {
+	font-size: 17px;
+	margin-bottom: 20px;
+	margin-left: 0px;
+	margin-top: 30px;
+}
+
+#footer-part .item .details ul {
+	margin-left: 0px;
+}
+
+#footer-part .item .details ul li {
+	margin-bottom: 7px;
+}
+
+#footer-part .item .details .form-icon {
+	height: 35px;
+	margin: 0 auto;
+}
+
+#footer-part .item .details .form-icon i {
+	width: 14px;
+	height: 14px;
+	font-size: 8px;
+	line-height: 12px;
+	margin-top: 11px;
+}
+
+#footer-part .line::after {
+	bottom: -50px;
+}
+
+/* ------------------------
+     Footer Part end
+-----------------------------*/
+
+
+#copyright-part .text h5 {
+	font-size: 13px;
+}
+
+.top-button {
+    position: fixed;
+    bottom: 108px;
+    right: 30px;
+    width: 40px;
+    height: 40px;
+    color: #FFFFFF;
+    background: #18A7B9;
+    border-radius: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    cursor: pointer;
+    display: none;
+}
+    /* ================================ */
+}
+
+
+@media (min-width:500px) and (max-width:575px){
+
+    /* ------------------------
+          Common Css Start
+    -----------------------------*/
+    
+    .title h1 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    
+    .title p {
+        font-size: 15px;
+        line-height: 25px;
+        width: auto;
+    }
+    
+    
+        /* ------------------------
+          Common Css End
+    -----------------------------*/
+    
+    /* ------------------------
+          Nav Part Start
+    -----------------------------*/
+        .navbar{
+            padding: 0 0px;
+            background: #FFFFFF;
+        }
+    
+        nav .navbar-brand {
+            font-size: 17px;
+            margin-top: 10px;
+        }
+    
+        .navbar-light .navbar-toggler {
+            color: rgba(0,0,0,.55);
+            border-color: #fff !important;
+            margin-top: 10px;
+        }
+    
+        .navbar-toggler:focus {
+            box-shadow:none;
+        }
+    
+        nav ul{
+            text-align: center;
+        }
+    
+        nav .navbar-nav .nav-item .nav-link:hover::after{
+            opacity: 0;
+        }
+    
+        nav .navbar-nav .nav-item .nav-link.active {
+            font-size: 16px;
+        }
+    
+        nav .navbar-nav .nav-item .nav-link {
+            font-size: 16px;
+            margin-right: 0px;
+            margin-top: 0px;
+        }
+    
+        /* ------------------------
+          Nav Part end
+    -----------------------------*/
+    
+    
+     /* ------------------------
+          Banner Part Start
+    -----------------------------*/
+    
+    #banner-part .reverse {
+        flex-direction: column-reverse !important;
+    }
+    
+    #banner-part {
+        margin-top: 50px;
+        margin-bottom: 60px;
+    }
+    
+    #banner-part .details h1 {
+        font-size: 30px;
+        line-height: 42.8px;
+        width: auto;
+        letter-spacing: -1px;
+        margin-top: 75px;
+        padding: 0 80px;
+        text-align: center;
+    }
+    
+    #banner-part .details p {
+        font-size: 15px;
+        line-height: 27px;
+        margin-top: 25px;
+        width: auto;
+        text-align: center;
+    }
+    
+    #banner-part .details .btn {
+        margin-top: 10px;
+        display: flex;
+         justify-content: center;
+    }
+    
+    #banner-part .details .btn .res-button{
+        width: 50%;
+    }
+    
+    .common-button {
+        width: 120px;
+        height: 35px;
+        border-radius: 27px 5px;
+        font-size: 14px; 
+        margin: 0 auto;
+    }
+    
+    .button {
+    width: 120px;
+    height: 35px;
+    border-radius: 27px 5px;
+    font-size: 14px; 
+    }
+    
+    #banner-part .details .counter-part .item {
+        margin-top: 50px;
+    }
+    
+    #banner-part .details .counter-part .item h3 {
+        font-size: 25px;
+        margin-bottom: 0px;
+    }
+    
+    #banner-part .details .counter-part .item span {
+        font-size: 25px;
+    }
+    
+    #banner-part .details .counter-part .item p {
+        font-family: 'Poppins', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        color: #6B6B6B;
+        line-height: 26px;
+        width: 100%;
+        margin-top: 10px;
+    }
+    
+    #banner-part .details .counter-part .item img {
+        top: -12px;
+        left: 226px;
+        width: 6%;
+    }
+    
+    #banner-part .details .counter-part .item .thard-img {
+        top: -12px;
+        left: 231px;
+        width: 6%;
+    }
+    
+    
+    #banner-part .details .counter-part .img img{
+        top: -42px;
+        left: -7px;
+        width: 100%;
+        display: none;
+    }
+    
+    #banner-part .img-part img {
+        border-radius: 10px 10px 10px 250px;
+        width: 100%;
+        margin-top: 20px;
+    }
+    
+    #banner-part .img-part .top-shape {
+        display: none;
+    }
+    
+    #banner-part .img-part .bottom-shape {
+        width: 162px;
+        height: 70px;
+        opacity: 40%;
+        bottom: -46px;
+        right: 16px;
+    }
+    
+     /* ------------------------
+          Banner Part end
+    -----------------------------*/
+    
+    /* ------------------------
+          Brand Part Start
+    -----------------------------*/
+    
+    #brand-part .sub-brand {
+        width: auto;
+        background: #FAFAFA;
+        border-radius: 150px;
+        padding: 0 5px;
+    }
+    
+    #brand-part .sub-brand .item {
+        padding: 12px 40px;
+    }
+    
+    #brand-part .sub-brand .item img {
+        width: 90%;
+    }
+    
+    #brand-part .sub-brand .item img {
+        margin-top: 12px;
+    }
+    
+    /* ------------------------
+          Brand Part end
+    -----------------------------*/
+    
+    
+    /* ------------------------
+        Construction Part Start
+    -----------------------------*/
+    
+    #construction-part {
+        margin-top: 50px;
+    }
+    
+    #construction-part .left-part p {
+        font-size: 15px;
+        margin-bottom: 25px;
+        margin-top: 0px;
+        width: auto;
+        text-align: center;
+    }
+    
+    #construction-part .left-part .img img {
+        border-radius: 10px 250px 10px 10px;
+        margin-top: 50px;
+        width: 100%;
+    }
+    
+    #construction-part .right-part h2 {
+        font-size: 30px;
+        line-height: 40.8px;
+        width: auto;
+        margin-bottom: 50px;
+        margin-top: 50px;
+        text-align: center;
+    }
+    
+    #construction-part .right-part .item {
+        padding-bottom: 25px;
+        margin-left: 0px;
+    }
+    
+    #construction-part .right-part .item .number {
+        width: 15%;
+        height: 50px;
+        margin: 0 auto;
+    }
+    
+    
+    #construction-part .right-part .item .number img {
+        width: 65%;
+        margin-right: 20px;
+    }
+    
+    #construction-part .right-part .item .number h1 {
+        font-size: 40px;
+        top: -17px;
+        left: 34px;
+    }
+    
+    #construction-part .right-part .item .text p {
+        font-size: 14px;
+        width: auto;
+        margin-top: 15px;
+        line-height: 25px;
+        text-align: center;
+    }
+    
+    /* ------------------------
+         Construction Part end
+    -----------------------------*/
+    
+    
+    /* ------------------------
+         Engineers Part Start
+    -----------------------------*/
+    #engineers-part {
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+    
+    
+    
+    #engineers-part .slider-item .item {
+        padding-bottom: 30px;
+        margin: 35px 20px 80px 20px;
+    }
+    
+    #engineers-part .slider-item .item .icon-part .star {
+        margin: 15px 0 0 30px;
+    }
+    
+    #engineers-part .slider-item .item .icon-part i {
+        margin: 15px 30px 0 0;
+    }
+    
+    #engineers-part .slider-item .item .img {
+        margin-top: 13px;
+        margin-bottom: 15px;
+    }
+    
+    #engineers-part .slider-item .item .details h3 {
+        font-size: 23px;
+        margin-bottom: 0px;
+    }
+    
+    #engineers-part .slider-item .item .details h5 {
+    
+        margin-bottom: 30px;
+    }
+    
+    #engineers-part .slider-item .item .details span {
+        font-size: 16px;
+    }
+    
+    #engineers-part .slider-item .item .details h4 {
+        font-size: 16px;
+        margin-top: 4px;
+    }
+    
+    #engineers-part .icon-button {
+        width: 105px;
+        height: 50px;
+        bottom: 39px;
+        z-index: 1;
+        margin-top: 0px;
+    }
+    
+    #engineers-part .next {
+        bottom: -3px;
+        left: 54%;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        z-index: 2;
+    }
+    
+    #engineers-part .prev {
+        width: 35px;
+    height: 35px;
+    line-height: 35px;
+    bottom: -3px;
+    left: 44%;
+    z-index: 2;
+    }
+    
+    /* ------------------------
+         Engineers Part end
+    -----------------------------*/
+    
+    
+    /* ------------------------
+         Message Part Start
+    -----------------------------*/
+    
+    #message-part {
+        margin-bottom: 50px;
+        padding-bottom: 85px;
+    }
+    
+    #message-part .details-part h1 {
+        font-size: 30px;
+        margin-top: -135px;
+    }
+    
+    #message-part .details-part p {
+        font-size: 15px;
+        line-height: 27px;
+        width: auto;
+        padding: 0 26px;
+    }
+    
+    #message-part .details-part .top-img {
+        top: 112px;
+        left: -6px;
+        width: 6%;
+    }
+    
+    #message-part .details-part .bottom-img {
+        bottom: -12px;
+        right: -1px;
+        width: 6%;
+    }
+    
+    /* ------------------------
+         Message Part end
+    -----------------------------*/
+    
+    /* ------------------------
+         Contact Part Start
+    -----------------------------*/
+    #contact-part {
+        margin-bottom: 50px;
+    }
+    
+    #contact-part .form-part input {
+        height: 40px;
+        width: 100%;
+    }
+    
+    #contact-part .form-part {
+        margin-top: 35px;
+    }
+    
+    #contact-part .form-part .name-form ::placeholder{
+        font-size: 15px;
+    }
+    
+    #contact-part .form-part .email-form ::placeholder{
+        font-size: 15px;
+    }
+    
+    #contact-part .form-part .subject-form ::placeholder{
+        font-size: 15px;
+    }
+    
+    #contact-part .form-part .massage-form {
+        width: 100%;
+        height: 85px;
+        border-radius: 4px;
+    }
+    
+    #contact-part .form-part .massage-form ::placeholder{
+        font-size: 15px;
+    }
+    
+    #contact-part .common-button{
+        margin: 0 auto;
+        width: 135px;
+    }
+    
+    #contact-part .img-part {
+        margin-top: 60px;
+    }
+    
+    
+    #contact-part .img-part img {
+        width: 100%;
+    }
+    
+    /* ------------------------
+         Contact Part end
+    -----------------------------*/
+    
+    /* ------------------------
+         Blogs Part Start
+    -----------------------------*/
+    
+    #blogs-part {
+        margin-bottom: 50px;
+    }
+    
+    #blogs-part .scroll-bar {
+        padding: 0px;
+        margin-top: 20px;
+        height: 551px;
+    }
+    
+    #blogs-part .left-img{
+        padding: 0 10px;
+    }
+    
+    #blogs-part .left-img img {
+        width: 100%;
+    }
+    
+    #blogs-part .left-img .details {
+        left: 28%;
+    }
+    
+    #blogs-part .left-img .details h4 {
+        font-size: 20px;
+    }
+    
+    #blogs-part .left-img .details p {
+        font-size: 14px;
+        margin-bottom: 32px;
+    }
+    
+    #blogs-part .left-img .details .button {
+        width: 135px;
+        height: 40px;
+        font-size: 14px;
+    }
+    
+    #blogs-part .right-img{
+        padding: 0 10px;
+    }
+    
+    #blogs-part .right-img img {
+        width: 100%;
+    }
+    
+    #blogs-part .right-img .details {
+        left: 28%;
+    }
+    
+    #blogs-part .right-img .details h4 {
+        font-size: 20px;
+    }
+    
+    #blogs-part .right-img .details p {
+        font-size: 14px;
+        margin-bottom: 32px;
+    }
+    
+    #blogs-part .right-img .details .button {
+        width: 135px;
+        height: 40px;
+        font-size: 14px;
+    }
+    
+    #ascrail2000-hr{
+       
+        display: none !important;
+    }
+    
+    /* ------------------------
+         Blogs Part end
+    -----------------------------*/
+    
+    /* ------------------------
+         Newsletter Part Start
+    -----------------------------*/
+    
+    #newsletter-part {
+        margin-bottom: 70px;
+    }
+    
+    #newsletter-part .title h1 {
+        font-size: 30px;
+        line-height: 37px;
+        width: auto;
+        margin-bottom: 20px !important;
+    }
+    
+    #newsletter-part .title p {
+        width: auto;
+    }
+    
+    #newsletter-part .common-button {
+        margin-top: 30px !important;
+    }
+    
+    #newsletter-part .common-button i {
+        margin-left: 7px;
+    }
+    
+    /* ------------------------
+         Newsletter Part end
+    -----------------------------*/
+    
+    
+    /* ------------------------
+         Footer Part Start
+    -----------------------------*/
+    
+    #footer-part {
+        margin-bottom: 80px;
+    }
+    
+    #footer-part .item{
+        text-align: center;
+    }
+    
+    #footer-part .item h1 {
+        font-size: 17px;
+        margin-bottom: 4px;
+    }
+    
+    #footer-part .item p {
+        font-size: 15px;
+        line-height: 23px;
+        margin-bottom: 20px;
+        width: auto;
+        padding: 0 84px;
+    }
+    
+    #footer-part .item .icon{
+        margin-bottom: 20px;
+    }
+    
+    #footer-part .item .details h3 {
+        font-size: 17px;
+        margin-bottom: 20px;
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+    
+    #footer-part .item .details ul {
+        margin-left: 0px;
+    }
+    
+    #footer-part .item .details ul li {
+        margin-bottom: 7px;
+    }
+    
+    #footer-part .item .details .form-icon {
+        height: 35px;
+        margin: 0 auto;
+    }
+    
+    #footer-part .item .details .form-icon i {
+        width: 14px;
+        height: 14px;
+        font-size: 8px;
+        line-height: 12px;
+        margin-top: 11px;
+    }
+    
+    #footer-part .line::after {
+        bottom: -50px;
+    }
+    
+    /* ------------------------
+         Footer Part end
+    -----------------------------*/
+    
+    
+    #copyright-part .text h5 {
+        font-size: 13px;
+    }
+    
+    .top-button {
+        position: fixed;
+        bottom: 108px;
+        right: 30px;
+        width: 40px;
+        height: 40px;
+        color: #FFFFFF;
+        background: #18A7B9;
+        border-radius: 40px;
+        text-align: center;
+        line-height: 40px;
+        font-size: 20px;
+        cursor: pointer;
+        display: none;
+    }
+        /* ================================ */
+    }
+
+
+
+@media (min-width:576px) and (max-width:767px){
+
+    /* ------------------------
+          Common Css Start
+    -----------------------------*/
+    
+    .title h1 {
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+    
+    .title p {
+        font-size: 17px;
+        line-height: 25px;
+        width: auto;
+    }
+    
+        /* ------------------------
+          Common Css End
+    -----------------------------*/
+    
+    /* ------------------------
+          Nav Part Start
+    -----------------------------*/
+    .navbar{
+        background: #FFFFFF;
+    }
+
+    nav .navbar-brand {
+        font-size: 20px;
+        margin-top: 0px;
+    }
+    
+        .navbar-light .navbar-toggler {
+            color: rgba(0,0,0,.55);
+            border-color: #fff !important;
+        }
+    
+        .navbar-toggler:focus {
+            box-shadow: 0 0 0;
+        }
+    
+        nav ul{
+            text-align: center;
+        }
+    
+        nav .navbar-nav .nav-item .nav-link:hover::after{
+            opacity: 0;
+        }
+    
+        nav .navbar-nav .nav-item .nav-link.active {
+            font-size: 16px;
+        }
+    
+        nav .navbar-nav .nav-item .nav-link {
+            font-size: 16px;
+            margin-right: 0px;
+            margin-top: 0px;
+        }
+    
+        /* ------------------------
+          Nav Part end
+    -----------------------------*/
+    
+    
+     /* ------------------------
+          Banner Part Start
+    -----------------------------*/
+    
+    #banner-part .reverse {
+        flex-direction: column-reverse !important;
+    }
+
+    #banner-part {
+        margin-top: 50px;
+        margin-bottom: 60px;
+    }
+    
+    #banner-part .details h1 {
+        font-size: 40px;
+        line-height: 42.8px;
+        width: auto;
+        letter-spacing: -1px;
+        margin-top: 75px;
+        padding-right: 62px;
+    }
+    
+    #banner-part .details p {
+        font-size: 17px;
+        line-height: 27px;
+        margin-top: 30px;
+        width: auto;
+        padding-right: 34px;
+    }
+    
+    #banner-part .details .btn {
+        margin-top: 10px;
+    }
+    
+    #banner-part .details .btn .res-button{
+        width: 50%;
+    }
+    
+    .common-button {
+        width: 140px;
+        height: 40px;
+        border-radius: 27px 5px;
+        font-size: 16px;
+    }
+    
+    .button {
+        width: 140px;
+        height: 40px;
+        border-radius: 27px 5px;
+        font-size: 16px;
+    }
+    
+    #banner-part .details .counter-part .item {
+        margin-top: 50px;
+    }
+    
+    #banner-part .details .counter-part .item h3 {
+        font-size: 25px;
+        margin-bottom: 0px;
+    }
+    
+    #banner-part .details .counter-part .item span {
+        font-size: 25px;
+    }
+
+    #banner-part .details .counter-part .item p {
+        font-size: 18px;
+        padding-right:0px ;
+    }
+    
+    #banner-part .details .counter-part .item img {
+        top: -2px;
+        left: 33px;
+        width: 15%;
+    }
+    
+    #banner-part .details .counter-part .item .thard-img {
+        top: -2px;
+        left: 42px;
+        width: 15%;
+    }
+    
+    
+    #banner-part .details .counter-part .img img {
+        top: -37px;
+        left: -80px;
+        width: 80%;
+    }
+    
+    #banner-part .img-part img {
+        border-radius: 10px 10px 10px 260px;
+        width: 100%;
+        margin-top: 50px;
+    }
+    
+    #banner-part .img-part .top-shape {
+        display: none;
+    }
+    
+    #banner-part .img-part .bottom-shape {
+        width: 209px;
+        height: 99px;
+        opacity: 40%;
+        bottom: -54px;
+        right: 12px;
+    }
+    
+     /* ------------------------
+          Banner Part end
+    -----------------------------*/
+    
+    /* ------------------------
+          Brand Part Start
+    -----------------------------*/
+    
+    #brand-part .sub-brand {
+        width: auto;
+        background: #FAFAFA;
+        border-radius: 150px;
+        padding: 0 2px;
+    }
+    
+    #brand-part .sub-brand .item {
+        padding: 12px 30px;
+    }
+    
+    #brand-part .sub-brand .item img{
+        width: 90%;
+    }
+
+    #brand-part .sub-brand .item img {
+        margin-top: 13px;
+    }
+    
+    /* ------------------------
+          Brand Part end
+    -----------------------------*/
+    
+    
+    /* ------------------------
+        Construction Part Start
+    -----------------------------*/
+    
+    #construction-part {
+        margin-top: 50px;
+    }
+    
+    #construction-part .left-part p {
+        font-size: 17px;
+        margin-bottom: 25px;
+        margin-top: 70px;
+        width: auto;
+        padding-right: 35px;
+    }
+    
+    #construction-part .left-part .img img {
+        border-radius: 10px 265px  10px 10px;
+        margin-top: 50px;
+        width: 100%;
+    }
+    
+    #construction-part .right-part h2 {
+        font-size: 40px;
+        line-height: 40.8px;
+        width: auto;
+        padding: 0 70px;
+        margin: 50px auto;
+    }
+    
+    #construction-part .right-part .item {
+        margin-bottom: 0px;
+        margin-left: 0px;
+        padding-bottom: 40px;
+    }
+    
+    #construction-part .right-part .item .number {
+        width: 15%;
+        height: 50px;
+        margin: 0 auto;
+    }
+    
+    #construction-part .right-part .item .number img {
+        width: 100%;
+        margin-right: 20px;
+    }
+    
+    #construction-part .right-part .item .number h1 {
+        font-size: 50px;
+        top: -22px;
+        left: 43px;
+    }
+    
+    #construction-part .right-part .item .text p {
+        font-size: 17px;
+        width: auto;
+        margin-top: 49px;
+        line-height: 25px;
+        padding: 0 8px;
+    }
+  
+    /* ------------------------
+         Construction Part end
+    -----------------------------*/
+    
+    
+    /* ------------------------
+         Engineers Part Start
+    -----------------------------*/
+    #engineers-part {
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+      
+    #engineers-part .slider-item .item {
+        padding-bottom: 30px;
+        margin: 35px 20px 80px 20px;
+    }
+    
+    #engineers-part .slider-item .item .icon-part .star {
+        margin: 15px 0 0 30px;
+    }
+    
+    #engineers-part .slider-item .item .icon-part i {
+        margin: 15px 30px 0 0;
+    }
+    
+    #engineers-part .slider-item .item .img {
+        margin-top: 13px;
+        margin-bottom: 15px;
+    }
+    
+    #engineers-part .slider-item .item .details h3 {
+        font-size: 23px;
+        margin-bottom: 0px;
+    }
+    
+    #engineers-part .slider-item .item .details h5 {
+    
+        margin-bottom: 30px;
+    }
+    
+    #engineers-part .slider-item .item .details span {
+        font-size: 16px;
+    }
+    
+    #engineers-part .slider-item .item .details h4 {
+        font-size: 16px;
+        margin-top: 4px;
+    }
+    
+    #engineers-part .icon-button {
+        width: 100px;
+        height: 50px;
+        bottom: 39px;
+        z-index: 1;
+        margin-top: 0px;
+    }
+    
+    #engineers-part .next {
+        bottom: -3px;
+        left: 53%;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        z-index: 2;
+    }
+    
+    #engineers-part .prev {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        bottom: -3px;
+        left: 45%;
+        z-index: 2;
+    }
+ 
+    /* ------------------------
+         Engineers Part end
+    -----------------------------*/
+    
+    
+    /* ------------------------
+         Message Part Start
+    -----------------------------*/
+    
+    #message-part {
+        margin-bottom: 50px;
+        padding-bottom: 85px;
+    }
+    
+    #message-part .details-part h1 {
+        font-size: 30px;
+        margin-top: -135px;
+    }
+    
+    #message-part .details-part p {
+        font-size: 17px;
+        line-height: 28px;
+        width: auto;
+        padding: 0 26px;
+    }
+    
+    #message-part .details-part .top-img {
+        top: 102px;
+        left: -24px;
+        width: 10%;
+    }
+    
+    #message-part .details-part .bottom-img {
+        bottom: -24px;
+        right: -17px;
+        width: 10%;
+    }
+    
+    /* ------------------------
+         Message Part end
+    -----------------------------*/
+    
+    /* ------------------------
+         Contact Part Start
+    -----------------------------*/
+    #contact-part {
+        margin-bottom: 35px;
+    }
+    
+    #contact-part .form-part input {
+        height: 40px;
+        width: 100%;
+    }
+
+    #contact-part .form-part .email-form{
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    #contact-part .form-part {
+        margin-top: 35px;
+    }
+    
+    #contact-part .form-part .name-form ::placeholder{
+        font-size: 15px;
+    }
+
+    #contact-part .form-part .email-form .form-control {
+       
+        width: 100%;
+    }
+    
+    #contact-part .form-part .email-form ::placeholder{
+        font-size: 15px;
+    }
+    
+    #contact-part .form-part .massage-form {
+        width: 100%;
+        height: 85px;
+        border-radius: 4px;
+    }
+    
+    #contact-part .form-part .massage-form ::placeholder{
+        font-size: 15px;
+    }
+    
+    #contact-part .common-button{
+        margin: 0 auto;
+        width: 150px;
+    }
+    
+    #contact-part .img-part {
+        margin-top: 50px;
+    }
+    
+    
+    #contact-part .img-part img {
+        width: 100%;
+    }
+    
+    /* ------------------------
+         Contact Part end
+    -----------------------------*/
+    
+    /* ------------------------
+         Blogs Part Start
+    -----------------------------*/
+    
+    #blogs-part {
+        margin-bottom: 50px;
+    }
+     
+    #ascrail2000-hr{
+       
+        display: none !important;
+    }
+
+    .nicescroll-cursors {
+        width: 6px !important;
+        height: 40px !important;
+    }
+
+    #blogs-part .scroll-bar {
+        padding: 0px;
+        margin-top: 20px;
+        height: 234px;
+    }
+
+    #blogs-part .left-img {
+        padding: 0 5px;
+    }
+    
+    #blogs-part .left-img img {
+        width: 100%;
+    }
+    
+    #blogs-part .left-img .details {
+        left: 0px;
+    }
+    
+    #blogs-part .left-img .details h4 {
+        font-size: 17px;
+    }
+    
+    #blogs-part .left-img .details p {
+        font-size: 14px;
+        margin-bottom: 20px;
+        padding: 0 16px;
+    }
+    
+    #blogs-part .left-img .details .button {
+        width: 100px;
+        height: 30px;
+        font-size: 11px;
+    }
+
+
+    #blogs-part .right-img {
+        padding: 0 5px;
+    }
+    
+    #blogs-part .right-img img {
+        width: 100%;
+    }
+    
+    #blogs-part .right-img .details {
+        left: 0px;
+    }
+    
+    #blogs-part .right-img .details h4 {
+        font-size: 17px;
+    }
+    
+    #blogs-part .right-img .details p {
+        font-size: 14px;
+        margin-bottom: 20px;
+        padding: 0 16px;
+    }
+    
+    #blogs-part .right-img .details .button {
+        width: 100px;
+        height: 30px;
+        font-size: 11px;
+    }
+    
+    /* ------------------------
+         Blogs Part end
+    -----------------------------*/
+    
+    /* ------------------------
+         Newsletter Part Start
+    -----------------------------*/
+    
+    #newsletter-part {
+        margin-bottom: 70px;
+    }
+    
+    #newsletter-part .title h1 {
+        font-size: 40px;
+        line-height: 43px;
+        width: auto;
+        margin-bottom: 20px !important;
+    }
+    
+    #newsletter-part .title p {
+        width: auto;
+    }
+    
+    #newsletter-part .common-button {
+        margin-top: 30px !important;
+    }
+    
+    #newsletter-part .common-button i {
+        margin-left: 7px;
+    }
+    
+    /* ------------------------
+         Newsletter Part end
+    -----------------------------*/
+    
+    
+    /* ------------------------
+         Footer Part Start
+    -----------------------------*/
+    
+    #footer-part {
+        margin-bottom: 55px;
+    }
+    
+    #footer-part .item{
+        text-align: center;
+    }
+    
+    #footer-part .item h1 {
+        font-size: 20px;
+        margin-bottom: 4px;
+    }
+    
+    #footer-part .item p {
+        font-size: 15px;
+        line-height: 23px;
+        margin-bottom: 20px;
+        width: auto;
+    }
+    
+    #footer-part .item .icon{
+        margin-bottom: 20px;
+    }
+    
+    #footer-part .item .details h3 {
+        font-size: 17px;
+        margin-bottom: 10px;
+        margin-left: 0px;
+        margin-top: 4px;
+    }
+    
+    #footer-part .item .details ul {
+        margin-left: 0px;
+        margin-bottom: 40px;
+    }
+    
+    #footer-part .item .details ul li {
+        margin-bottom: 7px;
+    }
+    
+    #footer-part .item .details .form-icon {
+        height: 35px;
+        margin: 0 auto;
+    }
+    
+    #footer-part .item .details .form-icon i {
+        width: 14px;
+        height: 14px;
+        font-size: 8px;
+        line-height: 12px;
+        margin-top: 11px;
+    }
+    
+    #footer-part .line::after {
+        bottom: -25px;
+    }
+    
+    /* ------------------------
+         Footer Part end
+    -----------------------------*/
+    
+    
+    #copyright-part .text h5 {
+        font-size: 14px;
+    }
+
+        /* ================================ */
+    }
+
+
+
+    @media (min-width:768px) and (max-width:991.98px){
+
+        /* ------------------------
+              Common Css Start
+        -----------------------------*/
+        
+        .title h1 {
+            font-size: 43px;
+            margin-bottom: 15px;
+        }
+        
+        .title p {
+            font-size: 19px;
+            line-height: 25px;
+            width: auto;
+        }
+
+
+        .res-laptop{
+            width: 50%;
+        }
+        
+        
+            /* ------------------------
+              Common Css End
+        -----------------------------*/
+        
+        /* ------------------------
+              Nav Part Start
+        -----------------------------*/
+            
+        .navbar{
+            background: #FFFFFF;
+        }
+
+        nav .navbar-brand {
+            font-size: 23px;
+            margin-top: 0px;
+        }
+        
+        .navbar-light .navbar-toggler {
+            color: rgba(0,0,0,.55);
+            font-size: 24px;
+            border: none;
+        }
+        
+            .navbar-toggler:focus {
+                box-shadow: 0 0 0;
+            }
+        
+            nav ul{
+                text-align: center;
+            }
+        
+            nav .navbar-nav .nav-item .nav-link:hover::after{
+                opacity: 0;
+            }
+        
+            nav .navbar-nav .nav-item .nav-link.active {
+                font-size: 16px;
+            }
+        
+            nav .navbar-nav .nav-item .nav-link {
+                font-size: 16px;
+                margin-right: 0px;
+                margin-top: 0px;
+            }
+        
+            /* ------------------------
+              Nav Part end
+        -----------------------------*/
+        
+        
+         /* ------------------------
+              Banner Part Start
+        -----------------------------*/
+        
+        .flex-column-reverse {
+            flex-direction: row !important;
+        }
+
+        .col-sm-4 {
+            flex: 0 0 auto;
+            width: 33.33333333%;
+            padding-left: 0px !important;
+            padding-right: 0 !important;
+        }
+
+        #banner-part {
+            margin-top: 35px;
+            margin-bottom: 60px;
+        }
+
+        
+        
+        #banner-part .details h1 {
+            font-size: 32px;
+            line-height: 42.8px;
+            width: auto;
+            letter-spacing: -1px;
+            margin-top: 50px;
+            padding-right: 62px;
+        }
+        
+        #banner-part .details p {
+            font-size: 15px;
+            line-height: 27px;
+            margin-top: 25px;
+            width: auto;
+            padding-right: 34px;
+        }
+        
+        #banner-part .details .btn {
+            margin-top: 10px;
+            padding: .375rem 0px;
+        }
+        
+        #banner-part .details .btn .res-button{
+            width: 50%;
+        }
+        
+        .common-button {
+            width: 120px;
+            height: 35px;
+            border-radius: 27px 5px;
+            font-size: 15px;
+        }
+            
+        .button {
+            width: 120px;
+            height: 35px;
+            border-radius: 27px 5px;
+            font-size: 15px;
+        }
+        
+        #banner-part .details .counter-part .item {
+            margin-top: 50px;
+        }
+        
+        #banner-part .details .counter-part .item h3 {
+            font-size: 20px;
+            margin-bottom: 0px;
+        }
+        
+        #banner-part .details .counter-part .item span {
+            font-size: 20px;
+        }
+
+        #banner-part .details .counter-part .item p {
+            font-size: 14px;
+            margin-top: 0px;
+            padding-right: 0;
+        }
+        
+        #banner-part .details .counter-part .item img {
+            top: 3px;
+            left: 24px;
+            width: 15%;
+        }
+        
+        #banner-part .details .counter-part .item .thard-img {
+            top: 2px;
+            left: 30px;
+            width: 15%;
+        }
+        
+        
+        #banner-part .details .counter-part .img img {
+            top: -20px;
+            left: -79px;
+            width: 100%;
+        }
+        
+        #banner-part .img-part img {
+            border-radius: 10px 10px 10px 175px;
+            width: 100%;
+            margin-top: 58px;
+        }
+        
+        #banner-part .img-part .top-shape {
+            width: 140px;
+            height: 100px;
+            top: 85px;
+             left: -52px;
+             border-radius: 84.5px 5px 5px 5px;
+        }
+        
+        #banner-part .img-part .bottom-shape {
+            width: 140px;
+            height: 90px;
+            opacity: 40%;
+            bottom: -47px;
+            right: 5px;
+        }
+        
+         /* ------------------------
+              Banner Part end
+        -----------------------------*/
+        
+        /* ------------------------
+              Brand Part Start
+        -----------------------------*/
+        
+        #brand-part .sub-brand {
+            width: auto;
+            background: #FAFAFA;
+            border-radius: 150px;
+            padding: 0 2px;
+        }
+        
+        #brand-part .sub-brand .item {
+            padding: 25px 0;
+        }
+        
+        #brand-part .sub-brand .item img {
+            width: 65%;
+        }
+
+        #brand-part .sub-brand .item img {
+            margin-top: 15px;
+            margin-left: 30px;
+        }
+        
+        /* ------------------------
+              Brand Part end
+        -----------------------------*/
+        
+        
+        /* ------------------------
+            Construction Part Start
+        -----------------------------*/
+        
+        #construction-part {
+            margin-top: 50px;
+        }
+        
+        #construction-part .left-part p {
+            font-size: 17px;
+            margin-bottom: 25px;
+            margin-top: 0px;
+            width: auto;
+            padding-right: 0px;
+        }
+        
+        #construction-part .left-part .img img {
+            border-radius: 10px 190px  10px 10px;
+            margin-top: 75px;
+            width: 100%;
+        }
+        
+        #construction-part .right-part h2 {
+            font-size: 35px;
+            line-height: 40.8px;
+            width: auto;
+            margin-bottom: 80px;
+        }
+        
+        #construction-part .right-part .item {
+            margin-bottom: 0px;
+            margin-left: 0px;
+            padding-bottom: 20px;
+        }
+        
+        #construction-part .right-part .item .number {
+            width: 15%;
+            height: 50px;
+            margin: 0 auto;
+        }
+        
+        #construction-part .right-part .item .number img {
+            width: 100%;
+            margin-right: 20px;
+        }
+        
+        #construction-part .right-part .item .number h1 {
+            font-size: 50px;
+            top: -24px;
+            left: 18px;
+        }
+        
+        #construction-part .right-part .item .text p {
+            font-size: 17px;
+            width: auto;
+            margin-top: 17px;
+            line-height: 25px;
+            padding: 0 0px;
+            margin-left: 16px;
+        }
+
+        #construction-part .common-button {
+            width: 130px;
+            height: 40px;
+            border-radius: 27px 5px;
+            font-size: 16px;
+        }
+        
+        /* ------------------------
+             Construction Part end
+        -----------------------------*/
+        
+        
+        /* ------------------------
+             Engineers Part Start
+        -----------------------------*/
+        #engineers-part {
+            margin-top: 10px;
+            margin-bottom: 50px;
+        }
+             
+        #engineers-part .slider-item .item {
+            padding-bottom: 30px;
+            margin: 35px 20px 80px 20px;
+        }
+        
+        #engineers-part .slider-item .item .icon-part .star {
+            margin: 15px 0 0 30px;
+        }
+        
+        #engineers-part .slider-item .item .icon-part i {
+            margin: 15px 30px 0 0;
+        }
+        
+        #engineers-part .slider-item .item .img {
+            margin-top: 13px;
+            margin-bottom: 15px;
+        }
+        
+        #engineers-part .slider-item .item .details h3 {
+            font-size: 23px;
+            margin-bottom: 0px;
+        }
+        
+        #engineers-part .slider-item .item .details h5 {
+        
+            margin-bottom: 30px;
+        }
+        
+        #engineers-part .slider-item .item .details span {
+            font-size: 16px;
+        }
+        
+        #engineers-part .slider-item .item .details h4 {
+            font-size: 16px;
+            margin-top: 4px;
+        }
+        
+        #engineers-part .icon-button {
+            width: 120px;
+            height: 50px;
+            bottom: 39px;
+            z-index: 1;
+            margin-top: 0px;
+        }
+        
+        #engineers-part .next {
+            bottom: -3px;
+            left: 53%;
+            width: 35px;
+            height: 35px;
+            line-height: 35px;
+            z-index: 2;
+        }
+        
+        #engineers-part .prev {
+            width: 35px;
+            height: 35px;
+            line-height: 35px;
+            bottom: -3px;
+            left: 46%;
+            z-index: 2;
+        }
+        
+        
+        /* ------------------------
+             Engineers Part end
+        -----------------------------*/
+        
+        
+        /* ------------------------
+             Message Part Start
+        -----------------------------*/
+        
+        #message-part {
+            margin-bottom: 50px;
+            padding-bottom: 85px;
+        }
+        
+        #message-part .details-part h1 {
+            font-size: 35px;
+            margin-top: -135px;
+        }
+        #message-part .details-part p {
+            font-size: 17px;
+            line-height: 28px;
+            width: auto;
+            padding: 0 26px;
+        }
+        
+        #message-part .details-part .top-img {
+            top: 90px;
+            left: -42px;
+            width: 10%;
+        }
+        
+        #message-part .details-part .bottom-img {
+            bottom: -34px;
+            right: -26px;
+            width: 10%;
+        }
+        
+        /* ------------------------
+             Message Part end
+        -----------------------------*/
+        
+        /* ------------------------
+             Contact Part Start
+        -----------------------------*/
+        #contact-part {
+            margin-bottom: 0px;
+        }
+
+        #contact-part .form-part .res-main{
+            display: flex;
+            justify-content: space-between;
+        }
+
+        
+        
+        #contact-part .form-part input {
+            height: 50px;
+            width: 100%;
+        }
+    
+        #contact-part .form-part {
+            margin-top: 35px;
+        }
+        
+        #contact-part .form-part .name-form ::placeholder{
+            font-size: 15px;
+        }
+
+        #contact-part .form-part .name-form {
+            width: 48%;
+        }
+
+
+        #contact-part .form-part .email-form {
+            width: 48%;
+        }
+        
+        #contact-part .form-part .email-form ::placeholder{
+            font-size: 15px;
+        }
+
+        #contact-part .form-part .subject-form {
+            width: 48%;
+        }
+        
+        #contact-part .form-part .subject-form ::placeholder{
+            font-size: 15px;
+        }
+        
+        #contact-part .form-part .massage-form {
+            width: 48%;
+            height: 85px;
+            border-radius: 4px;
+        }
+        
+        #contact-part .form-part .massage-form ::placeholder{
+            font-size: 15px;
+        }
+        
+        #contact-part .common-button{
+            margin: 0 auto;
+            margin-top: 20px;
+            width: 150px;
+            height: 40px
+        }
+        
+        #contact-part .img-part {
+            margin-top: 115px;
+        }
+        
+        
+        #contact-part .img-part img {
+            width: 100%;
+        }
+        
+        /* ------------------------
+             Contact Part end
+        -----------------------------*/
+        
+        /* ------------------------
+             Blogs Part Start
+        -----------------------------*/
+        
+        #blogs-part {
+            margin-bottom: 50px;
+            margin-top: 50px;
+        }
+            
+        #ascrail2000-hr{
+           
+            display: none !important;
+        }
+    
+        .nicescroll-cursors {
+            width: 6px !important;
+            height: 40px !important;
+        }
+    
+        #blogs-part .scroll-bar {
+            padding: 0px;
+            margin-top: 20px;
+            height: 315px;
+        }
+    
+        #blogs-part .left-img {
+            padding: 0 5px;
+        }
+        
+        #blogs-part .left-img img {
+            width: 100%;
+        }
+        
+        #blogs-part .left-img .details {
+            left: 22px;
+        }
+        
+        #blogs-part .left-img .details h4 {
+            font-size: 20px;
+        }
+        
+        #blogs-part .left-img .details p {
+            font-size: 16px;
+            margin-bottom: 20px;
+            padding:0px 0px;
+        }
+        
+        #blogs-part .left-img .details .button {
+            width: 120px;
+            height: 40px;
+            font-size: 13px;
+        }
+
+        #blogs-part .right-img {
+            padding: 0 5px;
+        }
+        
+        #blogs-part .right-img img {
+            width: 100%;
+        }
+        
+        #blogs-part .right-img .details {
+            left: 22px;
+        }
+        
+        #blogs-part .right-img .details h4 {
+            font-size: 20px;
+        }
+        
+        #blogs-part .right-img .details p {
+            font-size: 16px;
+            margin-bottom: 20px;
+            padding:0px 0px;
+        }
+        
+        #blogs-part .right-img .details .button {
+            width: 120px;
+            height: 40px;
+            font-size: 13px;
+        }
+        
+        /* ------------------------
+             Blogs Part end
+        -----------------------------*/
+        
+        /* ------------------------
+             Newsletter Part Start
+        -----------------------------*/
+        
+        #newsletter-part {
+            margin-bottom: 70px;
+        }
+        
+        #newsletter-part .title h1 {
+            font-size: 40px;
+            line-height: 43px;
+            width: auto;
+            margin-bottom: 20px !important;
+        }
+        
+        #newsletter-part .title p {
+            width: auto;
+        }
+        
+        #newsletter-part .common-button {
+            margin-top: 30px !important;
+            width: 130px;
+            height: 40px;
+            font-size: 16px;
+        }
+        
+        #newsletter-part .common-button i {
+            margin-left: 7px;
+        }
+        
+        /* ------------------------
+             Newsletter Part end
+        -----------------------------*/
+        
+        
+        /* ------------------------
+             Footer Part Start
+        -----------------------------*/
+        
+        #footer-part {
+            margin-bottom: 60px;
+        }
+        
+        #footer-part .item{
+            text-align: center;
+        }
+        
+        #footer-part .item h1 {
+            font-size: 20px;
+            margin-bottom: 4px;
+        }
+        
+        #footer-part .item p {
+            font-size: 15px;
+            line-height: 23px;
+            margin-bottom: 20px;
+            width: auto;
+        }
+        
+        #footer-part .item .icon{
+            margin-bottom: 20px;
+        }
+        
+        #footer-part .item .details h3 {
+            font-size: 17px;
+            margin-bottom: 10px;
+            margin-left: 0px;
+            margin-top: 4px;
+        }
+        
+        #footer-part .item .details ul {
+            margin-left: 0px;
+            margin-bottom: 40px;
+        }
+        
+        #footer-part .item .details ul li {
+            margin-bottom: 7px;
+        }
+        
+        #footer-part .item .details .form-icon {
+            height: 35px;
+            margin: 0 auto;
+        }
+        
+        #footer-part .item .details .form-icon i {
+            width: 14px;
+            height: 14px;
+            font-size: 8px;
+            line-height: 12px;
+            margin-top: 11px;
+        }
+        
+        #footer-part .line::after {
+            bottom: -30px;
+        }
+        
+        /* ------------------------
+             Footer Part end
+        -----------------------------*/
+        
+        
+        #copyright-part .text h5 {
+            font-size: 15px;
+        }
+        
+        
+            /* ================================ */
+        }
+
+
+
+        @media (min-width:992px) and (max-width:1199.98px){
+
+            /* ------------------------
+                  Common Css Start
+            -----------------------------*/
+            
+            .title h1 {
+                font-size: 43px;
+                margin-bottom: 15px;
+            }
+            
+            .title p {
+                font-size: 19px;
+                line-height: 25px;
+                width: auto;
+                padding: 0 179px;
+            }
+
+            .res-laptop{
+                width: 50%;
+            }
+            
+            
+                /* ------------------------
+                  Common Css End
+            -----------------------------*/
+            
+            /* ------------------------
+                  Nav Part Start
+            -----------------------------*/
+            .navbar{
+                padding: 0 0px;
+                background: #FFFFFF;
+            }
+
+            nav .navbar-brand {
+                font-size: 20px;
+                margin-top: 35px;
+            }
+            
+                .navbar-light .navbar-toggler {
+                    color: rgba(0,0,0,.55);
+                    border-color: #fff !important;
+                }
+            
+                .navbar-toggler:focus {
+                    box-shadow: 0 0 0;
+                }
+            
+                nav ul{
+                    text-align: center;
+                }
+            
+                nav .navbar-nav .nav-item .nav-link:hover::after{
+                    opacity: 0;
+                }
+            
+                nav .navbar-nav .nav-item .nav-link.active {
+                    font-size: 16px;
+                }
+            
+                nav .navbar-nav .nav-item .nav-link {
+                    font-size: 17px;
+                    margin-right: 35px;
+                    margin-top: 35px;
+                }
+            
+                /* ------------------------
+                  Nav Part end
+            -----------------------------*/
+            
+            
+             /* ------------------------
+                  Banner Part Start
+            -----------------------------*/
+            
+            .flex-column-reverse {
+                flex-direction: row !important;
+            }
+    
+            .col-sm-4 {
+                flex: 0 0 auto;
+                width: 33.33333333%;
+                padding-left: 0px !important;
+                padding-right: 0 !important;
+            }
+    
+            #banner-part {
+                margin-top: 50px;
+                margin-bottom: 60px;
+            }
+            
+            #banner-part .details h1 {
+                font-size: 42px;
+                line-height: 50.8px;
+                width: auto;
+                letter-spacing: -1px;
+                margin-top: 124px;
+                padding-right: 62px;
+            }
+            
+            #banner-part .details p {
+                font-size: 17px;
+                line-height: 27px;
+                margin-top: 25px;
+                width: auto;
+                padding-right: 27px;
+            }
+            
+            #banner-part .details .btn {
+                margin-top: 10px;
+            }
+            
+            #banner-part .details .btn .res-button{
+                width: 50%;
+            }
+            
+            .common-button {
+                width: 130px;
+                height: 40px;
+                border-radius: 27px 5px;
+                font-size: 16px;
+            }
+                 
+            .button {
+                width: 130px;
+                height: 40px;
+                border-radius: 27px 5px;
+                font-size: 16px;
+            }
+            
+            #banner-part .details .counter-part .item {
+                margin-top: 50px;
+            }
+            
+            #banner-part .details .counter-part .item h3 {
+                font-size: 23px;
+                margin-bottom: 0px;
+            }
+            
+            #banner-part .details .counter-part .item span {
+                font-size: 23px;
+            }
+
+            #banner-part .details .counter-part .item p {
+                font-size: 19px;
+                margin-top: 5px;
+                padding-right: 0px;
+            }
+            
+            #banner-part .details .counter-part .item img {
+                top: -2px;
+                left: 36px;
+                width: 15%;
+            }
+            
+            #banner-part .details .counter-part .item .thard-img {
+                top: -4px;
+                left: 45px;
+                width: 15%;
+            }
+                
+            #banner-part .details .counter-part .img img {
+                top: -30px;
+                left: -95px;
+                width: 94%;
+            }
+            
+            #banner-part .img-part img {
+                border-radius: 10px 10px 10px 175px;
+                width: 100%;
+                margin-top: 58px;
+            }
+            
+            #banner-part .img-part .top-shape {
+                width: 140px;
+                height: 100px;
+                top: 85px;
+                 left: -52px;
+                 border-radius: 84.5px 5px 5px 5px;
+            }
+            
+            #banner-part .img-part .bottom-shape {
+                width: 140px;
+                height: 90px;
+                opacity: 40%;
+                bottom: -47px;
+                right: 5px;
+            }
+            
+             /* ------------------------
+                  Banner Part end
+            -----------------------------*/
+            
+            /* ------------------------
+                  Brand Part Start
+            -----------------------------*/
+            
+            #brand-part .sub-brand {
+                width: auto;
+                background: #FAFAFA;
+                border-radius: 150px;
+                padding: 0 2px;
+            }
+            
+            #brand-part .sub-brand .item {
+                padding: 35px 0;
+            }
+            
+            #brand-part .sub-brand .item img {
+                width: 75%;
+                margin-top: 10px;
+                margin-left: 23px;
+            }
+
+            #brand-part .sub-brand .item .logo-4 {
+                width: 71%;
+                margin-top: 0px;
+            }
+
+            #brand-part .sub-brand .item .logo-5 {
+                width: 75%;
+                margin-top: 5px;
+            }
+            
+            /* ------------------------
+                  Brand Part end
+            -----------------------------*/
+            
+            
+            /* ------------------------
+                Construction Part Start
+            -----------------------------*/
+            
+            #construction-part {
+                margin-top: 50px;
+            }
+            
+            #construction-part .left-part p {
+                font-size: 18px;
+                margin-bottom: 25px;
+                margin-top: 0px;
+                width: auto;
+                padding-right: 0px;
+            }
+            
+            #construction-part .left-part .img img {
+                border-radius: 10px 190px  10px 10px;
+                margin-top: 75px;
+                width: 100%;
+            }
+            
+            #construction-part .right-part h2 {
+                font-size: 42px;
+                line-height: 50.8px;
+                width: auto;
+                margin-bottom: 155px;
+                margin-left: 30px;
+            }
+            
+            #construction-part .right-part .item {
+                margin-bottom: 0px;
+                margin-left: 0px;
+                padding-bottom: 40px;
+            }
+            
+            #construction-part .right-part .item .number {
+                width: 50%;
+                margin-top: 35px;
+                margin-left: 30px;
+            }
+            
+            #construction-part .right-part .item .number img {
+                width: 100%;
+                margin-right: 20px;
+            }
+            
+            #construction-part .right-part .item .number h1 {
+                font-size: 50px;
+                top: -22px;
+                left: 34px;
+            }
+            
+            #construction-part .right-part .item .text p {
+                font-size: 17px;
+                width: auto;
+                margin-top: 17px;
+                line-height: 25px;
+                padding-right: 13px;
+            }
+            
+            #construction-part .common-button {
+                width: 130px;
+                height: 40px;
+                border-radius: 27px 5px;
+                font-size: 16px;
+            }
+            
+            /* ------------------------
+                 Construction Part end
+            -----------------------------*/
+            
+            
+            /* ------------------------
+                 Engineers Part Start
+            -----------------------------*/
+            #engineers-part {
+                margin-top: 50px;
+                margin-bottom: 50px;
+                
+            }
+               
+            #engineers-part .slider-item .item {
+                padding-bottom: 30px;
+                margin: 35px 20px 80px 20px;
+            }
+            
+            #engineers-part .slider-item .item .icon-part .star {
+                margin: 15px 0 0 30px;
+            }
+            
+            #engineers-part .slider-item .item .icon-part i {
+                margin: 15px 30px 0 0;
+            }
+            
+            #engineers-part .slider-item .item .img {
+                margin-top: 13px;
+                margin-bottom: 15px;
+            }
+            
+            #engineers-part .slider-item .item .details h3 {
+                font-size: 23px;
+                margin-bottom: 0px;
+            }
+            
+            #engineers-part .slider-item .item .details h5 {
+            
+                margin-bottom: 30px;
+            }
+            
+            #engineers-part .slider-item .item .details span {
+                font-size: 16px;
+            }
+            
+            #engineers-part .slider-item .item .details h4 {
+                font-size: 16px;
+                margin-top: 4px;
+            }
+            
+            #engineers-part .icon-button {
+                width: 120px;
+                height: 50px;
+                bottom: 39px;
+                z-index: 1;
+                margin-top: 0px;
+            }
+            
+            #engineers-part .next {
+                bottom: -3px;
+                left: 52%;
+                width: 35px;
+                height: 35px;
+                line-height: 35px;
+                z-index: 2;
+            }
+            
+            #engineers-part .prev {
+                width: 35px;
+                height: 35px;
+                line-height: 35px;
+                bottom: -3px;
+                left: 47%;
+                z-index: 2;
+            }
+            
+            
+            /* ------------------------
+                 Engineers Part end
+            -----------------------------*/
+            
+            
+            /* ------------------------
+                 Message Part Start
+            -----------------------------*/
+            
+            #message-part {
+                margin-bottom: 50px;
+                padding-bottom: 85px;
+            }
+            
+            #message-part .details-part h1 {
+                font-size: 42px;
+                margin-top: -135px;
+            }
+
+            #message-part .details-part p {
+                font-size: 17px;
+                line-height: 28px;
+                width: auto;
+                padding: 0 63px;
+            }
+            
+            #message-part .details-part .top-img {
+                top: 74px;
+                left: -21px;
+                width: 10%;
+            }
+            
+            #message-part .details-part .bottom-img {
+                bottom: -49px;
+                right: -12px;
+                width: 10%;
+            }
+            
+            /* ------------------------
+                 Message Part end
+            -----------------------------*/
+            
+            /* ------------------------
+                 Contact Part Start
+            -----------------------------*/
+            #contact-part {
+                margin-bottom: 50px;
+            }
+     
+            #contact-part .form-part input {
+                height: 50px;
+                width: 100%;
+            }
+        
+            #contact-part .form-part {
+                margin-top: 35px;
+            }
+            
+            #contact-part .form-part .name-form ::placeholder{
+                font-size: 15px;
+            }
+    
+            #contact-part .form-part .name-form {
+                width: 100%;
+            }
+    
+            #contact-part .form-part .email-form {
+                width: 100%;
+            }
+            
+            #contact-part .form-part .email-form ::placeholder{
+                font-size: 15px;
+            }
+    
+            #contact-part .form-part .subject-form {
+                width: 100%;
+            }
+            
+            #contact-part .form-part .subject-form ::placeholder{
+                font-size: 15px;
+            }
+            
+            #contact-part .form-part .massage-form {
+                width: 100%;
+                height: 85px;
+                border-radius: 4px;
+            }
+            
+            #contact-part .form-part .massage-form ::placeholder{
+                font-size: 15px;
+            }
+            
+            #contact-part .common-button{
+                margin: 0 auto;
+                margin-top: 20px;
+                width: 150px;
+                height: 40px
+            }
+            
+            #contact-part .img-part {
+                margin-top: 40px;
+            }
+            
+            
+            #contact-part .img-part img {
+                width: 100%;
+            }
+            
+            /* ------------------------
+                 Contact Part end
+            -----------------------------*/
+            
+            /* ------------------------
+                 Blogs Part Start
+            -----------------------------*/
+            
+            #blogs-part {
+                margin-bottom: 50px;
+            }
+            
+            #ascrail2000-hr{
+               
+                display: none !important;
+            }
+        
+            .nicescroll-cursors {
+                width: 6px !important;
+                height: 40px !important;
+            }
+        
+            #blogs-part .scroll-bar {
+                padding: 0px;
+                margin-top: 20px;
+                height: 427px;
+            }
+        
+            #blogs-part .left-img {
+                padding: 0 5px;
+            }
+            
+            #blogs-part .left-img img {
+                width: 100%;
+            }
+            
+            #blogs-part .left-img .details {
+                left: 15%;
+            }
+            
+            #blogs-part .left-img .details h4 {
+                font-size: 23px;
+            }
+            
+            #blogs-part .left-img .details p {
+                font-size: 18px;
+                margin-bottom: 20px;
+                padding:0px 0px;
+            }
+            
+            #blogs-part .left-img .details .button {
+                width: 130px;
+                height: 40px;
+                font-size: 14px;
+            }
+        
+        
+            #blogs-part .right-img {
+                padding: 0 5px;
+            }
+            
+            #blogs-part .right-img img {
+                width: 100%;
+            }
+            
+            #blogs-part .right-img .details {
+                left: 15%;
+            }
+            
+            #blogs-part .right-img .details h4 {
+                font-size: 23px;
+            }
+            
+            #blogs-part .right-img .details p {
+                font-size: 18px;
+                margin-bottom: 20px;
+                padding:0px 0px;
+            }
+            
+            #blogs-part .right-img .details .button {
+                width: 120px;
+                height: 40px;
+                font-size: 13px;
+            }
+            
+            /* ------------------------
+                 Blogs Part end
+            -----------------------------*/
+            
+            /* ------------------------
+                 Newsletter Part Start
+            -----------------------------*/
+            
+            #newsletter-part {
+                margin-bottom: 70px;
+            }
+            
+            #newsletter-part .title h1 {
+                font-size: 40px;
+                line-height: 43px;
+                width: auto;
+                margin-bottom: 20px !important;
+            }
+            
+            #newsletter-part .title p {
+                width: auto;
+            }
+            
+            #newsletter-part .common-button {
+                margin-top: 30px !important;
+                width: 130px;
+                height: 40px;
+                font-size: 16px;
+            }
+            
+            #newsletter-part .common-button i {
+                margin-left: 7px;
+            }
+            
+            /* ------------------------
+                 Newsletter Part end
+            -----------------------------*/
+            
+            
+            /* ------------------------
+                 Footer Part Start
+            -----------------------------*/
+            
+            #footer-part {
+                margin-bottom: 60px;
+            }
+            
+            #footer-part .item{
+                text-align: center;
+            }
+            
+            #footer-part .item h1 {
+                font-size: 20px;
+                margin-bottom: 4px;
+            }
+            
+            #footer-part .item p {
+                font-size: 15px;
+                line-height: 23px;
+                margin-bottom: 20px;
+                width: auto;
+            }
+            
+            #footer-part .item .icon{
+                margin-bottom: 20px;
+            }
+            
+            #footer-part .item .details h3 {
+                font-size: 17px;
+                margin-bottom: 10px;
+                margin-left: 0px;
+                margin-top: 4px;
+            }
+            
+            #footer-part .item .details ul {
+                margin-left: 0px;
+                margin-bottom: 40px;
+            }
+            
+            #footer-part .item .details ul li {
+                margin-bottom: 7px;
+            }
+            
+            #footer-part .item .details .form-icon {
+                height: 35px;
+                margin: 0 auto;
+            }
+            
+            #footer-part .item .details .form-icon i {
+                width: 14px;
+                height: 14px;
+                font-size: 8px;
+                line-height: 12px;
+                margin-top: 11px;
+            }
+            
+            #footer-part .line::after {
+                bottom: -30px;
+            }
+            
+            /* ------------------------
+                 Footer Part end
+            -----------------------------*/
+            
+            
+            #copyright-part .text h5 {
+                font-size: 15px;
+            }
+            
+            
+                /* ================================ */
+            }
